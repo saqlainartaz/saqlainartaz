@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Computer+Science+Graduate+%7C+AI+%26+Cybersecurity;Exploring+Generative+AI+%26+Agentic+Systems;Designing+Secured+Intelligent+Systems;Learning+something+new+every+day&repeat=true&pause=2000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Computer+Science+Graduate+%7C+AI+%26+Cybersecurity;Exploring+Generative+AI+%26+Agentic+Systems;Designing+Secured+Intelligent+Systems;Learning+something+new+every+day&repeat=true&pause=2000" alt="Typing SVG">
 </p>
 
 ---
@@ -45,6 +45,10 @@
 #### Learning & Practice
 
 - **Python** — [exercism-python](https://github.com/saqlainartaz/exercism-python) solutions & challenges
+
+#### Legacy Work
+
+- **[birthday-app](https://github.com/saqlainartaz/birthday-app)** — Birthday reminder application
 
 ---
 
