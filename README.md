@@ -49,6 +49,7 @@
 #### Legacy Work
 
 - **[birthday-app](https://github.com/saqlainartaz/birthday-app)** — Birthday reminder application
+- **[cs50-finance](https://github.com/saqlainartaz/cs50-finance)** — CS50 Finance web application
 
 ---
 
