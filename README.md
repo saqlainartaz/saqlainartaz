@@ -48,9 +48,10 @@
 
 #### Legacy Work
 
-- **[birthday-app](https://github.com/saqlainartaz/birthday-app)** — Birthday reminder application
+- **[toolkit-app](https://github.com/saqlainartaz/toolkit-app)** — A Flask web application for secure message sharing, readability analysis, credit card validation, and change calculation.
 - **[cs50-finance](https://github.com/saqlainartaz/cs50-finance)** — CS50 Finance web application
-
+- **[birthday-app](https://github.com/saqlainartaz/birthday-app)** — Birthday reminder application
+  
 ---
 
 ### What I'm Doing
