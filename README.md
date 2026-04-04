@@ -77,10 +77,10 @@
 
 ### GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saqlainartaz&show_icons=true&hide_title=true&hide_border=true&theme=dark&count_private=true" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainartaz&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://ghchart.rshah.org/saqlainartaz" alt="GitHub Contributions">
